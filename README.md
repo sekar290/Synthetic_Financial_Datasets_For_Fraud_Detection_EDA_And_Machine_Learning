@@ -1,0 +1,2 @@
+# Synthetic_Financial_Datasets_For_Fraud_Detection_EDA_And_Machine_Learning
+Exploratory Data Analyst and Machine Learning of Synthetic Financial Datasets For Fraud Detection
